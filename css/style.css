@@ -795,3 +795,11 @@ textarea {
   color: #fff;
   background-color: #128C7E;
 }
+.overflow-x-hidden {
+  overflow-x: hidden;
+  
+}
+.overflow-y-hidden{
+  overflow-y: hidden;
+  overflow-x: visible;
+}
