@@ -38,12 +38,5 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- صفحة الخدمات -->
-  <url>
-    <loc>https://high-site.com/services.html</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
+ 
 </urlset>
