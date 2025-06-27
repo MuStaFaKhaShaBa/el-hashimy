@@ -37,6 +37,47 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
+  
+  <url>
+    <loc>https://high-site.com/services.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://high-site.com/blog.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://high-site.com/contact.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://high-site.com/hawalli.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://high-site.com/jahra.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://high-site.com/services.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
  
 </urlset>
