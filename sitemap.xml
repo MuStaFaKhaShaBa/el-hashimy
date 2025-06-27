@@ -39,21 +39,21 @@
   </url>
   
   <url>
-    <loc>https://high-site.com/services.html</loc>
+    <loc>https://high-site.com/خدماتنا.html</loc>
     <lastmod>2025-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://high-site.com/blog.html</loc>
+    <loc>https://high-site.com/اثاث مستعمل.html</loc>
     <lastmod>2025-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://high-site.com/contact.html</loc>
+    <loc>https://high-site.com/تواصل.html</loc>
     <lastmod>2025-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -72,12 +72,5 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
-  <url>
-    <loc>https://high-site.com/services.html</loc>
-    <lastmod>2025-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
- 
+   
 </urlset>
