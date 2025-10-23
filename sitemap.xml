@@ -30,6 +30,14 @@
     </image:image>
   </url>
 
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://high-site.com/شراء الاثاث المستعمل بالرياض/</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
   <!-- صفحة من نحن -->
   <url>
     <loc>https://high-site.com/about.html</loc>
