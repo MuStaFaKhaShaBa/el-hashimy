@@ -4,7 +4,7 @@
   <!-- الصفحة الرئيسية -->
   <url>
     <loc>https://high-site.com/</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
 
@@ -33,44 +33,58 @@
   <!-- صفحة من نحن -->
   <url>
     <loc>https://high-site.com/about.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://high-site.com/خدماتنا.html</loc>
-    <lastmod>2025-06-27</lastmod>
+    <loc>https://high-site.com/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%D9%86%D8%A7.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://high-site.com/اثاث مستعمل.html</loc>
-    <lastmod>2025-06-27</lastmod>
+    <loc>https://high-site.com/%D8%A7%D8%AB%D8%A7%D8%AB_%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://high-site.com/تواصل.html</loc>
-    <lastmod>2025-06-27</lastmod>
+    <loc>https://high-site.com/%D8%AA%D9%88%D8%A7%D8%B5%D9%84.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://high-site.com/hawally.html</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://high-site.com/jahra.html</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
    
+
+  <url>
+    <loc>https://high-site.com/salmiya.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://high-site.com/farwaniya.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
